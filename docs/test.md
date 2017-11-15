@@ -2,7 +2,9 @@
 layout: default
 ---
 
-Include:
-{% include hello.md %}
+Test for include (from .md file)
 
+Include:
+
+{% include hello.md %}
 
