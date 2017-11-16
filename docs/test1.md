@@ -6,5 +6,5 @@ Test for include (from .md file)
 
 Include:
 
-{% include hello.md %}
+{% include_relative hello.md %}
 
