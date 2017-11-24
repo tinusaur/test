@@ -7,5 +7,5 @@
 
 Include:
 
-{% include_relative hello.md %}
+{% include_relative "docs/hello.md" %}
 
